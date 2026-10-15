@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it together with the paper and the dataset."
+title: "Analysis code: LLM-assisted linguistic review of textbooks (randomized controlled study)"
+type: software
+version: 1.0.0
+date-released: "2026-10-15"
+license: MIT
+authors:
+  - {family-names: "Leite", given-names: "Liedson Danubio Oliveira", affiliation: "Federal University of Alagoas"}
+  - {family-names: "Silva", given-names: "Luciane de Fátima", affiliation: "Federal University of Alagoas; Federal University of Uberlândia"}
+  - {family-names: "Cabral", given-names: "Luciano de Souza", affiliation: "Federal Institute of Pernambuco"}
+  - {family-names: "Tomaz", given-names: "Hilário", affiliation: "Federal Institute of Espírito Santo"}
+  - {family-names: "Araújo", given-names: "Rafael Dias", affiliation: "Federal University of Uberlândia"}
+  - {family-names: "Araújo", given-names: "André", affiliation: "Federal University of Alagoas"}
+  - {family-names: "Dermeval", given-names: "Diego", affiliation: "Federal University of Alagoas"}
+  - {family-names: "Munoz-Najar Galvez", given-names: "Sebastian", affiliation: "Harvard University"}
+  - {family-names: "Sobrinho", given-names: "Álvaro", affiliation: "Federal University of the Agreste of Pernambuco"}
+references:
+  - type: dataset
+    title: "Reference standard and anonymised response logs: LLM-assisted linguistic review of textbooks"
+    doi: "10.5281/zenodo.23395396"
+    authors:
+      - {family-names: "Leite", given-names: "Liedson Danubio Oliveira"}

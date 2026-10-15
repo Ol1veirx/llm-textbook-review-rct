@@ -1,0 +1,2 @@
+Condition,Accuracy,Precision,Recall,F1-Score,Cohen's Kappa
+"AI-Assisted (per-educator exposure, n=37)",0.8538,0.835,0.1552,0.2618,0.221

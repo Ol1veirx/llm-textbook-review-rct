@@ -1,0 +1,29 @@
+Characteristic,n,%
+Excerpt,,
+Pages,20,
+Sentences,585,100.0
+Sentences with at least one error,100,17.1
+Error-free sentences,485,82.9
+Errors (total = 142),,
+Orthographic,74,52.1
+Grammatical,68,47.9
+Orthographic subtypes,,
+Punctuation,38,51.4
+Capitalization,16,21.6
+Typing,7,9.5
+Undue repetition,6,8.1
+Hyphen,3,4.1
+Other,4,5.4
+Grammatical subtypes,,
+Pronoun use,13,19.1
+Regency,12,17.6
+Nominal agreement,9,13.2
+Verbal agreement,5,7.4
+Parallelism,5,7.4
+Cohesion,4,5.9
+Article use,4,5.9
+Other,16,23.5
+Errors per erroneous sentence,,
+1 error,69,69.0
+2 errors,23,23.0
+3 or more errors,8,8.0

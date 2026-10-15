@@ -1,0 +1,23 @@
+{
+  "title": "Analysis code: LLM-assisted linguistic review of textbooks (randomized controlled study)",
+  "upload_type": "software",
+  "language": "eng",
+  "license": "mit",
+  "access_right": "open",
+  "description": "Python code that reproduces the tables and figures of the paper \"Large Language Model-Assisted Linguistic Review in a Governmental Textbook Approval Process: A Randomized Controlled Study\" from the published response logs and reference standard. Includes automated checks against the numbers reported in the paper.",
+  "keywords": ["textbook evaluation", "large language models", "randomized controlled trial", "educational public policy", "linguistic review"],
+  "creators": [
+    {"name": "Leite, Liedson Danubio Oliveira", "affiliation": "Federal University of Alagoas"},
+    {"name": "Silva, Luciane de Fátima", "affiliation": "Federal University of Alagoas; Federal University of Uberlândia"},
+    {"name": "Cabral, Luciano de Souza", "affiliation": "Federal Institute of Pernambuco"},
+    {"name": "Tomaz, Hilário", "affiliation": "Federal Institute of Espírito Santo"},
+    {"name": "Araújo, Rafael Dias", "affiliation": "Federal University of Uberlândia"},
+    {"name": "Araújo, André", "affiliation": "Federal University of Alagoas"},
+    {"name": "Dermeval, Diego", "affiliation": "Federal University of Alagoas"},
+    {"name": "Munoz-Najar Galvez, Sebastian", "affiliation": "Harvard University"},
+    {"name": "Sobrinho, Álvaro", "affiliation": "Federal University of the Agreste of Pernambuco"}
+  ],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.23395396", "relation": "references", "resource_type": "dataset", "scheme": "doi"}
+  ]
+}
